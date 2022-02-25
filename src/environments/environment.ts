@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: true,
+  //baseUrl: "https://trucks-eu-web-reliabilityweibullprod.azurewebsites.net/"
+  //baseUrl: "https://ravitejasample.azurewebsites.net/"
+  baseUrl: "https://ravitejapython.azurewebsites.net"
 };
 
 /*
