@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ae1c401d-f1a9-4424-96f6-065584dd26a5/resourceGroups/rtg/providers/Microsoft.Web/sites/ravitejanodejs",
+    "appService.deploySubpath": "."
+}
